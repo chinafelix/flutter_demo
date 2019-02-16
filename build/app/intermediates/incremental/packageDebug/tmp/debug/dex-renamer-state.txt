@@ -1,0 +1,4 @@
+#Fri Jan 25 14:41:38 CST 2019
+base.0=E\:\\flutterApp\\happy_apartment\\happy_apartment\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
