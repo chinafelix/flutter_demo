@@ -1,5 +1,5 @@
 # 简介
-      这是一个本人自学flutter时写的demo，样式以及一些细节都没有很注重，而且主要也就写了首页
+   这是一个本人自学flutter时写的demo，样式以及一些细节都没有很注重，而且主要也就写了首页
 
 # dependencies
       1.cupertino_icons
@@ -8,9 +8,7 @@
 
 ## Running
 
-###
-flutter run
-###
+      flutter run
 
 # screenShot for Android
 
