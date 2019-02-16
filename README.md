@@ -11,4 +11,5 @@ flutter run
 ###
 
 # screenShot for Android
-![Image text](https://github.com/chinafelix/flutter_demo/blob/master/images/Image%20(2).png)
+
+![Image text](https://github.com/chinafelix/flutter_demo/blob/master/images/Image.png)![Image text](https://github.com/chinafelix/flutter_demo/blob/master/images/Image%20(2).png)
